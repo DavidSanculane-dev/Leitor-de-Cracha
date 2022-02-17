@@ -1,0 +1,12 @@
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\LeitorCracha.exe.config
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.csprojResolveAssemblyReference.cache
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.HelloCardForm.resources
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.Properties.Resources.resources
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.csproj.GenerateResource.Cache
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\LeitorCracha.exe
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\LeitorCracha.pdb
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\CardModule.CLICS.dll
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\SmartCard.dll
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\bin\Debug\de\SmartCard.resources.dll
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.exe
+c:\users\david.sanculane\documents\visual studio 2015\Projects\LeitorCracha\LeitorCracha\obj\Debug\LeitorCracha.pdb
